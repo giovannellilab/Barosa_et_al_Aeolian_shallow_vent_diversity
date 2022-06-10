@@ -1,4 +1,4 @@
-# The helium and carbon isotope characteristics of the Andean Convergent Margin
+# Mapping the microbial diversity associated with different geochemical regimes in the shallow-water hydrothermal vents of the Aeolian Archipelago, Italy
 
 [![forthebadge](https://forthebadge.com/images/badges/cc-by-nd.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
@@ -6,7 +6,7 @@
 
 
 [![giovannellilab](https://img.shields.io/badge/BY-Giovannelli_Lab-blue)](http:s//www.donatogiovannelli.com)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6360624.svg)](https://doi.org/XXXX)
+[![DOI](https://zenodo.org/badge/DOI/XXXX.svg)](https://doi.org/XXXX)
 [![made-with-Markdown](https://img.shields.io/badge/Coded%20in-R-red.svg)](https://www.r-project.org/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
