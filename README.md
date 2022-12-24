@@ -25,3 +25,5 @@ The raw fastq files for the sequencing can be accessed with on the ENA website w
 THis project has received funding from the European Research Council (ERC) under the 17 European Union’s Horizon 2020 research and innovation programme (Grant 18 agreement No. 948972) ERC-STG-2020 project CoEvolve.
 
 Please cite as:
+
+Bernardo Barosa, Alessandra Ferrillo, Matteo Selci, Marco Giardina, Alessia Bastianoni, Monica Correggia, Luciano di Iorio, Giulia Bernardi, Martina Cascone, Rosaria Capuozzo, Michele Intoccia, Roy Price, Costantino Vetriani, Angelina Cordone, Donato Giovannelli. 2023. Mapping the microbial diversity associated with different geochemical regimes in the shallow-water hydrothermal vents of the Aeolian Archipelago, Italy. Submitted
