@@ -20,4 +20,8 @@ The repository contains the following files:
 - aeo19_dataset.csv (the environmental dataset containg also the geochemistry)
 - Barosa_et_al_supplementary_table_1.csv (the compilation of geochemical data from the literature)
 
+The raw fastq files for the sequencing can be accessed with on the ENA website with the project code [PRJEB54611](https://www.ebi.ac.uk/ena/browser/view/PRJEB54611) the under the *CoEvolve: Coevolution of Geosphere and Biosphere* umbrella project ([PRJEB55081](https://www.ebi.ac.uk/ena/browser/view/PRJEB55081)).
+
+THis project has received funding from the European Research Council (ERC) under the 17 European Union’s Horizon 2020 research and innovation programme (Grant 18 agreement No. 948972) ERC-STG-2020 project CoEvolve.
+
 Please cite as:
