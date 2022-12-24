@@ -6,7 +6,7 @@
 
 
 [![giovannellilab](https://img.shields.io/badge/BY-Giovannelli_Lab-blue)](http:s//www.donatogiovannelli.com)
-[![DOI](https://zenodo.org/badge/DOI/XXXX.svg)](https://doi.org/XXXX)
+[![DOI](https://zenodo.org/badge/501964112.svg)](https://zenodo.org/badge/latestdoi/501964112)
 [![made-with-Markdown](https://img.shields.io/badge/Coded%20in-R-red.svg)](https://www.r-project.org/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
